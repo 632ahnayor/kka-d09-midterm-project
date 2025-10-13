@@ -1,0 +1,46 @@
+Hari,Mulai,Selesai,Kode Kelas,Nama Mata Kuliah,Durasi (menit)
+Senin,08:30,10:00,EF234614 A,User Experience Design,90
+Senin,08:00,09:50,EF234505 E,Knowledge based Engineering,110
+Senin,10:30,12:20,EF234502 D,Information Security,110
+Senin,14:30,16:00,EF234518 A,Data Mining,90
+Senin,08:00,09:30,EF234708 A,Multivariate Data Analysis,90
+Senin,09:30,11:00,EF234704 B,Cloud Computing,90
+Senin,08:30,10:00,EF234618 B,Game Engine,90
+Senin,08:00,09:50,EF234504 E,Computer Graphics,110
+Senin,10:00,11:50,EF234501 B,Framework-based Programming,110
+Selasa,14:00,15:50,EF234504 A,Computer Graphics,110
+Selasa,08:30,10:00,ER234504 B,Software Project Management,90
+Selasa,15:00,16:50,EF234503 D,Modeling and Simulation,110
+Selasa,10:30,12:00,EF234614 B,User Experience Design,90
+Selasa,13:30,15:00,EF234606 A,Network Security,90
+Selasa,11:30,13:20,EF234502 B,Information Security,110
+Selasa,08:00,09:50,EF234505 A,Knowledge based Engineering,110
+Selasa,11:30,13:00,EF234713 A,Quantum Computing,90
+Selasa,14:00,15:30,EK234601 B,Robotics,90
+Rabu,15:30,17:20,EF234501 C,Framework-based Programming,110
+Rabu,14:00,15:30,EF234618 A,Game Engine,90
+Rabu,11:00,12:50,EF234503 C,Modeling and Simulation,110
+Rabu,11:30,13:20,EF234501 D,Framework-based Programming,110
+Rabu,12:30,14:20,EF234502 E,Information Security,110
+Rabu,14:30,16:20,EF234502 A,Information Security,110
+Rabu,11:30,13:00,EF234708 B,Multivariate Data Analysis,90
+Rabu,08:30,10:20,EF234501 A,Framework-based Programming,110
+Rabu,09:30,11:00,EF234704 A,Cloud Computing,90
+Kamis,10:00,11:50,EF234504 C,Computer Graphics,110
+Kamis,14:00,15:50,EF234503 A,Modeling and Simulation,110
+Kamis,08:00,09:50,EF234505 C,Knowledge based Engineering,110
+Kamis,15:00,16:30,EK234601 A,Robotics,90
+Kamis,14:30,16:00,EF234713 B,Quantum Computing,90
+Kamis,15:30,17:20,EF234505 B,Knowledge based Engineering,110
+Kamis,13:30,15:00,EF234509 A,Competitive Programming,90
+Kamis,13:00,14:30,EF234509 B,Competitive Programming,90
+Kamis,15:00,16:50,EF234503 B,Modeling and Simulation,110
+Jumat,09:30,11:00,ER234504 A,Software Project Management,90
+Jumat,08:00,09:30,EF234518 B,Data Mining,90
+Jumat,08:00,09:50,EF234502 C,Information Security,110
+Jumat,14:30,16:00,EF234606 B,Network Security,90
+Jumat,09:30,11:20,EF234505 D,Knowledge based Engineering,110
+Jumat,13:00,14:50,EF234503 E,Modeling and Simulation,110
+Jumat,09:00,10:50,EF234504 B,Computer Graphics,110
+Jumat,09:00,10:50,EF234501 E,Framework-based Programming,110
+Jumat,15:30,17:20,EF234504 D,Computer Graphics,110
